@@ -2,7 +2,7 @@
 #include "wav_struct.h"
 #include <stdlib.h>
 #include <string.h>
-
+#include <stdio.h>
 
 //=========General Purpose Functions=============
 
